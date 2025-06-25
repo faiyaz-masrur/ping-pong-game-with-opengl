@@ -1,7 +1,7 @@
-#Ping Pong Game using PyOpenGl
+# Ping Pong Game using PyOpenGL
 Our game is a simple ball with bat game known as Ping-Pong game
 
-##About Game
+## About Game
 1. The bat will be moved according to the movement of the mouse.
 2. The ball will move randomly in the created window.
 3. When the ball hits the right, left, or top wall (we will refer to the window border as a wall) it will return back.
